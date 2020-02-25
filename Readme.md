@@ -1,7 +1,7 @@
 To Start the Application 
 
 Step 1: 
-npm install
+Do npm install
 step 2: 
 npm run start
 
