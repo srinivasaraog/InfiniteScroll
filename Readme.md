@@ -1,13 +1,14 @@
-To Start the Application 
 
-Step 1: 
-Do npm install
-step 2: 
-npm run start
+## Install
 
-Implemented following Features using React js ,Es6, webpack ,babel and CSS
+```
+$ npm install       --> Install the npm packages
+$ npm run start --> Run Tests
 
-infinitescroll,
-spinner,
-Responsive
+```
+
+
+
+
+
 
